@@ -1,3 +1,5 @@
+//solution to bob in javascript on exercism.io
+
 var Bob = function() {};
 Bob.prototype.hey = function(input) {
 if (input.valueOf("?") != -1) {
